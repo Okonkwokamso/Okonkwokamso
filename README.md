@@ -30,4 +30,4 @@ Self-taught, based in Nigeria 🇳🇬, and a first-class medical radiography gr
 
 I'm looking for remote **backend and AI engineering** roles, and I'm especially curious about medical imaging and health-tech AI (my radiography background is a good excuse).
 
-📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/okonkwo-kamso/) · [Email](mailto: okonkwochikamsoj@gmail.com)
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/okonkwo-kamso/) · [Email](okonkwochikamsoj@gmail.com)
